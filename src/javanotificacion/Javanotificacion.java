@@ -31,7 +31,9 @@ public class Javanotificacion {
                 System.out.println("Error: " + e.getMessage());
             }
         } else {
-            System.out.println("El sistema no soporta notificaciones de sistema.");
+            System.out.println("El sistema no soporta notificaciones de sistem"
+                    + ""
+                    + "platanitoa.");
         }
     }
 }
